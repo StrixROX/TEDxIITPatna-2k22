@@ -1,0 +1,125 @@
+@font-face {
+  font-family: gotham;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gotham'), url(GothamBook.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/GothamBook.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham;
+  font-style: italic;
+  font-weight: 400;
+  src: local('Gotham'), url(GothamBookItalic.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/GothamBookItalic.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham;
+  font-style: normal;
+  font-weight: 300;
+  src: local('Gotham'), url(GothamLight.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/GothamLight.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham;
+  font-style: italic;
+  font-weight: 300;
+  src: local('Gotham'), url(GothamLightItalic.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/GothamLightItalic.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Gotham'), url(GothamMedium.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/GothamMedium.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Gotham'), url(GothamMedium_1.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/GothamMedium_1.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham;
+  font-style: italic;
+  font-weight: 500;
+  src: local('Gotham'), url(GothamMediumItalic.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/GothamMediumItalic.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Gotham'), url(GothamBold.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/GothamBold.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Gotham'), ur, url(Bold.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/Gotham-Bold.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham;
+  font-style: italic;
+  font-weight: 700;
+  src: local('Gotham'), url(GothamBoldItalic.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/GothamBoldItalic.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham black;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Gotham Black'), ur, url(Black.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/Gotham-Black.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham light;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Gotham Light'), ur, url(Light.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/Gotham-Light.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham thin;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Gotham Thin'), ur, url(Thin.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/Gotham-Thin.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham xlight;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Gotham XLight'), ur, url(XLight.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/Gotham-XLight.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham book;
+  font-style: italic;
+  font-weight: 500;
+  src: local('Gotham Book'), ur, url(BookItalic.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/Gotham-BookItalic.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham thin;
+  font-style: italic;
+  font-weight: 500;
+  src: local('Gotham Thin'), ur, url(ThinItalic.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/Gotham-ThinItalic.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham ultra;
+  font-style: italic;
+  font-weight: 500;
+  src: local('Gotham Ultra'), ur, url(UltraItalic.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/Gotham-UltraItalic.woff) format('woff')
+}
+
+@font-face {
+  font-family: gotham xlight;
+  font-style: italic;
+  font-weight: 500;
+  src: local('Gotham XLight'), ur, url(XLightItalic.ttf) format('truetype'), url(https://fonts.cdnfonts.com/s/14898/Gotham-XLightItalic.woff) format('woff')
+}
